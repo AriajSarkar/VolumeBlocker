@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">VolumeLockApp</string>
+    <string name="volume_lock_disabled">Volume Lock Disabled</string>
+    <string name="enable_volume_lock">Enable Volume Lock</string>
+    <string name="volume_lock_off">Volume Lock: OFF</string>
+    <string name="toggle_volume_lock">Toggle Volume Lock</string>
+</resources>
